@@ -55,3 +55,6 @@ config.yml
 # Ignore Windows files
 Thumbs.db
 desktop.ini
+
+# Ensure requirements.txt is not ignored
+!requirements.txt
